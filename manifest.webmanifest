@@ -1,0 +1,17 @@
+{
+  "name": "狗狗安 · 宠物代遛",
+  "short_name": "狗狗安",
+  "description": "C2C 宠物代遛服务平台：上门遛狗、喂养、家庭寄养、找同城狗友。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF8F6",
+  "theme_color": "#FF5A8A",
+  "icons": [
+    { "src": "assets/icon-dog-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-dog-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-dog-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
