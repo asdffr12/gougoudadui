@@ -1,5 +1,5 @@
 /* 狗狗安 · 离线缓存。改了页面就把版本号 +1 */
-var CACHE = "gougoudadui-v1";
+var CACHE = "gougoudadui-v2";
 
 self.addEventListener("install", function () {
   self.skipWaiting();
@@ -35,3 +35,4 @@ self.addEventListener("fetch", function (event) {
     })
   );
 });
+
